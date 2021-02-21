@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="r0848228_wireframe:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/r0848228_wireframe_war2</output-path>
+    <root id="archive" name="r0848228_wireframe_war.war">
+      <element id="artifact" artifact-name="r0848228_wireframe:war exploded" />
+    </root>
+  </artifact>
+</component>
